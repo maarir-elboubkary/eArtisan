@@ -3,4 +3,9 @@
 	email: git config --global user.email your-email
 2eme etape : la recuperation le repository de projet
 	commane : git clone url-Projet
-	
+3eme etape : create file manuellement 
+
+4eme etape: for adding file to github 
+	commande : git add file-name
+		   git commit -m "first commit" file-name
+		   git push -u origin master
