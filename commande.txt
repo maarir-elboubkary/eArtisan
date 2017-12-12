@@ -1,0 +1,6 @@
+1ere etape :la configuration name and email for session
+	name: git config -- global user.name "your user name"
+	email: git config --global user.email your-email
+2eme etape : la recuperation le repository de projet
+	commane : git clone url-Projet
+	
