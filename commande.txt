@@ -9,3 +9,7 @@
 	commande : git add file-name
 		   git commit -m "first commit" file-name
 		   git push -u origin master
+si il y a les modfications sur les fichiers 
+	commande : git status
+		   git commit -m "second commit" file-name
+		   git push -i origin master
